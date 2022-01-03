@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IUT-ACY\\mesCours\\R1.01-PROG C#- BASES\\sources\\Test2-Github\\Project1\\Project1\\Project1.csproj": {}
+    "C:\\Users\\bdiar\\Source\\Repos\\SAEbis\\Project1\\Project1\\Project1.csproj": {}
   },
   "projects": {
-    "D:\\IUT-ACY\\mesCours\\R1.01-PROG C#- BASES\\sources\\Test2-Github\\Project1\\Project1\\Project1.csproj": {
+    "C:\\Users\\bdiar\\Source\\Repos\\SAEbis\\Project1\\Project1\\Project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IUT-ACY\\mesCours\\R1.01-PROG C#- BASES\\sources\\Test2-Github\\Project1\\Project1\\Project1.csproj",
+        "projectUniqueName": "C:\\Users\\bdiar\\Source\\Repos\\SAEbis\\Project1\\Project1\\Project1.csproj",
         "projectName": "Project1",
-        "projectPath": "D:\\IUT-ACY\\mesCours\\R1.01-PROG C#- BASES\\sources\\Test2-Github\\Project1\\Project1\\Project1.csproj",
-        "packagesPath": "C:\\Users\\ngrus\\.nuget\\packages\\",
-        "outputPath": "D:\\IUT-ACY\\mesCours\\R1.01-PROG C#- BASES\\sources\\Test2-Github\\Project1\\Project1\\obj\\",
+        "projectPath": "C:\\Users\\bdiar\\Source\\Repos\\SAEbis\\Project1\\Project1\\Project1.csproj",
+        "packagesPath": "C:\\Users\\bdiar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bdiar\\Source\\Repos\\SAEbis\\Project1\\Project1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ngrus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bdiar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,16 +63,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
