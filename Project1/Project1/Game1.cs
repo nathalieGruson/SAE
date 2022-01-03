@@ -21,7 +21,7 @@ namespace Project1
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-            Window.Title = "Test Github avec nouvelle version .gitinore";
+            Window.Title = "Test Github avec nouvelle version .gitignore";
             _test = 42;
             base.Initialize();
         }
