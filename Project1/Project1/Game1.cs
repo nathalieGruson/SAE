@@ -9,6 +9,8 @@ namespace Project1
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+        private int _test;
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
@@ -20,6 +22,7 @@ namespace Project1
         {
             // TODO: Add your initialization logic here
             Window.Title = "Test Github";
+            _test = 2;
             base.Initialize();
         }
 
