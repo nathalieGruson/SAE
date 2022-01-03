@@ -22,7 +22,7 @@ namespace Project1
         {
             // TODO: Add your initialization logic here
             Window.Title = "Test Github avec nouvelle version .gitinore";
-            _test = 2;
+            _test = 42;
             base.Initialize();
         }
 
