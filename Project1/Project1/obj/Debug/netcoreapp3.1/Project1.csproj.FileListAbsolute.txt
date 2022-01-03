@@ -67,3 +67,9 @@ C:\Users\bdiar\Source\Repos\SAEit\Project1\Project1\obj\Debug\netcoreapp3.1\Proj
 C:\Users\bdiar\Source\Repos\SAEit\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.dll
 C:\Users\bdiar\Source\Repos\SAEit\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
 C:\Users\bdiar\Source\Repos\SAEit\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\bdiar\Source\Repos\SAEit\Project1\Project1\bin\Debug\netcoreapp3.1\Content\chat.xnb
+C:\Users\bdiar\Source\Repos\SAEit\Project1\Project1\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\bdiar\Source\Repos\SAEit\Project1\Project1\bin\Debug\netcoreapp3.1\MonoGame.Extended.dll
+C:\Users\bdiar\Source\Repos\SAEit\Project1\Project1\bin\Debug\netcoreapp3.1\MonoGame.Extended.Graphics.dll
+C:\Users\bdiar\Source\Repos\SAEit\Project1\Project1\bin\Debug\netcoreapp3.1\MonoGame.Extended.Tiled.dll
+C:\Users\bdiar\Source\Repos\SAEit\Project1\Project1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
