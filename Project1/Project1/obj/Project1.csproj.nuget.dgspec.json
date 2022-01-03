@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "U:\\Documents\\Programmation\\Csharp\\IUT_Info\\S1_01_02\\Project1\\Project1\\Project1.csproj": {}
+    "D:\\IUT-ACY\\mesCours\\R1.01-PROG C#- BASES\\SAE-S1-01\\TestGithub\\Project1\\Project1\\Project1.csproj": {}
   },
   "projects": {
-    "U:\\Documents\\Programmation\\Csharp\\IUT_Info\\S1_01_02\\Project1\\Project1\\Project1.csproj": {
+    "D:\\IUT-ACY\\mesCours\\R1.01-PROG C#- BASES\\SAE-S1-01\\TestGithub\\Project1\\Project1\\Project1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "U:\\Documents\\Programmation\\Csharp\\IUT_Info\\S1_01_02\\Project1\\Project1\\Project1.csproj",
+        "projectUniqueName": "D:\\IUT-ACY\\mesCours\\R1.01-PROG C#- BASES\\SAE-S1-01\\TestGithub\\Project1\\Project1\\Project1.csproj",
         "projectName": "Project1",
-        "projectPath": "U:\\Documents\\Programmation\\Csharp\\IUT_Info\\S1_01_02\\Project1\\Project1\\Project1.csproj",
-        "packagesPath": "C:\\Users\\Lyoug\\.nuget\\packages\\",
-        "outputPath": "U:\\Documents\\Programmation\\Csharp\\IUT_Info\\S1_01_02\\Project1\\Project1\\obj\\",
+        "projectPath": "D:\\IUT-ACY\\mesCours\\R1.01-PROG C#- BASES\\SAE-S1-01\\TestGithub\\Project1\\Project1\\Project1.csproj",
+        "packagesPath": "C:\\Users\\ngrus\\.nuget\\packages\\",
+        "outputPath": "D:\\IUT-ACY\\mesCours\\R1.01-PROG C#- BASES\\SAE-S1-01\\TestGithub\\Project1\\Project1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Lyoug\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngrus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,8 +65,12 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.14, 3.1.14]"
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
             }
           ],
           "frameworkReferences": {
@@ -74,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
